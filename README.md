@@ -1,2 +1,3 @@
-# teste-git-t14-tA
-Repositório para realização de atividades para a monitoria em grupo
+# Repositório Teste Git
+
+Este repositório será utilizado para realizar atividades rotineiras como teste para a Turma 14 - Tribo A.
